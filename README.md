@@ -14,7 +14,7 @@ This event is held in partnership with Hacktoberfest 2023 and is exclusively ava
 
 - **Date:** 06/10/2023
 - **Time:** 1 pm to 4 pm
-- **Venue:** AR/VR Lab, [Address]
+- **Venue:** AR/VR Lab
 
 ## Agenda
 
